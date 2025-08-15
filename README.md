@@ -39,25 +39,36 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <p>
-  <!-- Main badges -->
-  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-<p>
-  <!-- Pulsing/floating effect duplicates (slightly lighter colors) -->
-  <img src="https://img.shields.io/badge/C-%23007acc?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-%23ff6600?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-%231a86d6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23ffd633?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-%23262934?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-%2344bb44?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2366cc66?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <!-- Synchronized neon pulse badges: staggered gradient shades -->
+  <!-- C -->
+  <img src="https://img.shields.io/badge/C-%23ff00ff?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <!-- HTML5 -->
+  <img src="https://img.shields.io/badge/HTML5-%23ff3399?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-%2300ccff?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-%23ffff33?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-%23cc33ff?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <!-- Node.js -->
+  <img src="https://img.shields.io/badge/Node.js-%2300ff33?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <!-- MongoDB -->
+  <img src="https://img.shields.io/badge/MongoDB-%23ff9966?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <!-- Glow duplicates slightly offset for synchronized pulse -->
+  <img src="https://img.shields.io/badge/C-%23ff33ff?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-%23ff66aa?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%2300aaff?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23ffff66?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-%23bb33ff?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%2300cc66?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-%23ffaa66?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/C-%23ff66ff?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-%23ff00aa?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%2300ffff?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23ffff99?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-%23dd33ff?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%2300ff99?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-%23ffcc66?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ---
