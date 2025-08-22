@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/MysticShips_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" alt="X" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/prathiusharun-tech/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://x.com/prathiusharun_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" alt="X" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/prathiusharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://substack.com/@prathiusharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/substack.svg" alt="Substack" height="30" width="30" /></a>
   <a href="https://medium.com/@prathiusharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/medium.svg" alt="Medium" height="30" width="30" /></a>
   <a href="https://portfolio-shadows5-projects.vercel.app/#projects" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlechrome.svg" alt="Portfolio" height="30" width="30" /></a>
