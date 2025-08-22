@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Prathiush Arun
 </h1>
-<h3 align="center">Cracked dev, shipping code</h3>
+<h3 align="center">Cracked dev, shipping products.</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=prathiusharun&label=Profile%20views&color=0e75b6&style=flat" alt="prathiusharun" />
@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/prathiusharun_" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" alt="X" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/prathiusharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/prathiusharun/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
   <a href="https://substack.com/@prathiusharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/substack.svg" alt="Substack" height="30" width="30" /></a>
   <a href="https://medium.com/@prathiusharun" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/medium.svg" alt="Medium" height="30" width="30" /></a>
   <a href="https://portfolio-shadows5-projects.vercel.app/#projects" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlechrome.svg" alt="Portfolio" height="30" width="30" /></a>
