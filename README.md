@@ -16,7 +16,7 @@ I am a full stack developer building production-ready systems that solve real pr
 
 ## Projects
 
-**[Job Tracker](https://job-tracker-henna-gamma.vercel.app)** — Full-stack SaaS for tracking job applications. Next.js 14, NextAuth, Prisma, PostgreSQL. Desktop PageSpeed: 100/100.
+**[Job Tracker](https://job-tracker-henna-gamma.vercel.app)** — Full-stack SaaS for tracking job applications. Next.js 16, NextAuth, Prisma, PostgreSQL. Desktop PageSpeed: 100/100.
 
 **[Weather.IO](https://weather-app-zeta-ten-59.vercel.app)** — Performance-engineered weather system with caching strategy, conditional DB writes, and ISR. Desktop FCP: 0.2s, LCP: 0.4s.
 
@@ -67,6 +67,6 @@ X: [https://x.com/prathiusharun_](https://x.com/prathiusharun_)
 LinkedIn: [https://www.linkedin.com/in/prathiusharun/](https://www.linkedin.com/in/prathiusharun/)
 Substack: [https://substack.com/@prathiusharun](https://substack.com/@prathiusharun)
 Medium: [https://medium.com/@prathiusharun](https://medium.com/@prathiusharun)
-Portfolio: [https://portfolio-682g-gblg38itb-shadows5-projects.vercel.app](https://portfolio-682g-gblg38itb-shadows5-projects.vercel.app)
+Portfolio:[https://portfolio-682g-gblg38itb-shadows5-projects.vercel.app](https://portfolio-682g.vercel.app)]
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
