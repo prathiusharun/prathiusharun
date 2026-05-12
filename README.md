@@ -71,11 +71,13 @@ Portfolio:[https://portfolio-682g-gblg38itb-shadows5-projects.vercel.app](https:
 
 ---
 
-## Contribution Graph
+
+## Contribution Breakdown
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathiusharun&theme=react-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prathiusharun&theme=radical" />
 </p>
+
 
 ---
 
