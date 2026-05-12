@@ -69,4 +69,14 @@ Substack: [https://substack.com/@prathiusharun](https://substack.com/@prathiusha
 Medium: [https://medium.com/@prathiusharun](https://medium.com/@prathiusharun)
 Portfolio:[https://portfolio-682g-gblg38itb-shadows5-projects.vercel.app](https://portfolio-682g.vercel.app)]
 
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathiusharun&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
