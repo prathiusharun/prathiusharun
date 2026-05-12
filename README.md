@@ -72,9 +72,6 @@ Portfolio:[https://portfolio-682g-gblg38itb-shadows5-projects.vercel.app](https:
 ---
 
 
-## Contribution Metrics
-
-![Metrics](https://raw.githubusercontent.com/prathiusharun/prathiusharun/main/github-metrics.svg)
 
 ---
 
